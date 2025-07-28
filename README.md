@@ -9,12 +9,12 @@ Supernovae are powerful cosmic explosions crucial for astrophysical research. Ho
 
 ## 📂 Datasets
 
-### 1. [Pan-STARRS](https://star.pst.qub.ac.uk/ps1threepi/psdb/)
+### 1. [Pan-STARRS](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JGO6VI)
 - 12,447 clean, high-resolution difference images (302x302).
 - Minimal observational noise.
 - Ideal for testing standard object detection pipelines.
 
-### 2. [Popular Supernova Project (PSP)](http://psp.china-vo.org/)
+### 2. [Popular Supernova Project (PSP)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JGO6VI)
 - 716 real-world noisy astronomical images.
 - Includes alignment issues, low SNR, and environmental distortions.
 - Used to evaluate SR-enhanced robustness.
